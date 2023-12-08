@@ -1,2 +1,4 @@
 # SwiftAppExercise
-<img src="1.App/PhotoFrameSimulatorScreenshot.png" name="screenshot">
+1. App
+   - PhotoFrame App
+   ![Uploading PhotoFrameSimulatorScreenshot.png…]()
